@@ -1,0 +1,11 @@
+.playlist {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .saveButton {
+    margin-top: 10px;
+    padding: 10px;
+    cursor: pointer;
+  }  
